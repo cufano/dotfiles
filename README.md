@@ -1,2 +1,2 @@
 # My personal dotfiles
-My personal dotfiles is a repository I use to maintain the personal configuration for my development environment.
+My personal dotfiles is a repository I use to maintain the personal configuration for my development environment in MacOS.
