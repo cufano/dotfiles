@@ -74,6 +74,7 @@ DEFAULT_USER=`whoami`
 plugins=(git composer osx)
 
 source $ZSH/oh-my-zsh.sh
+source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # User configuration
 
