@@ -4,4 +4,6 @@ My personal dotfiles is a repository I use to maintain the personal configuratio
 You should create a `.dotfiles` folder in your home directory using:
 ```
 git clone https://github.com/cufano/dotfiles.git .dotfiles
+cd .dotfiles
+./macosinstall
 ```
