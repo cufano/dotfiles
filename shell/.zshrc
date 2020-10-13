@@ -13,6 +13,9 @@ ZSH_THEME="robbyrussell"
 # Hide username in prompt
 DEFAULT_USER=`whoami`
 
+# Disable verification of insecure directories
+ZSH_DISABLE_COMPFIX="true"
+
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/
